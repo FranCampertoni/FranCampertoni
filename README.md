@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FranCampertoni
 - 👀 I’m interested in Law and programming 
 - 🌱 I’m currently learning about the fundamentals of programming 
-- 💞️ I’m looking to collaborate on new proyects and daos
 - 📫 How to reach me: francampertoni@gmail.com
 
 <!---
